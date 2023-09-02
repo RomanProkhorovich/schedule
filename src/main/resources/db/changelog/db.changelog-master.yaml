@@ -1,0 +1,6 @@
+databaseChangeLog:
+  - include:
+    - file: db/changelog/changeset/create-education-institution-table.sql
+  - include:
+    - file: db/changelog/changeset/create-group-table.sql
+
